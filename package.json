@@ -1,0 +1,25 @@
+{
+  "name": "supabase-data-entry-form",
+  "version": "1.0.0",
+  "description": "Day 1 Assignment",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiundraharville-prog/Supabase-Data-Entry-Form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/kiundraharville-prog/Supabase-Data-Entry-Form/issues"
+  },
+  "homepage": "https://github.com/kiundraharville-prog/Supabase-Data-Entry-Form#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
